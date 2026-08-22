@@ -20,7 +20,7 @@ const mohamedIrfan = {
 
 * 🏆 Hackathon & project enthusiast
 * 🚀 Building AI-powered and web-based projects
-* 📫 Reach me at [your.email@gmail.com](mailto:your.email@gmail.com)
+* 📫 Reach me at [mohamedirfans1997@gmail.com](mailto:mohamedirfans1997@gmail.com)
 
 ---
 
